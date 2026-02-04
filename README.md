@@ -8,7 +8,3 @@ focused on data analysis, automation, and business insights.
 - SQL (Joins, Subqueries, Aggregations)
 - Data Cleaning & Analysis
 
-## Projects
-1. BMI Calculator (Python)
-2. Sales Data Analysis (SQL)
-3. Customer Segmentation (Python + SQL)
